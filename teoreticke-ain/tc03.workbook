@@ -16,7 +16,13 @@
     {
       "id": 27,
       "type": "text",
-      "data": "## Cvičenie 3.:cnt[a]\n:small[:icon[source] Prednášky: :xref[3.2]{.lec label=\"def.\"}, :xref[3.3]{.lec label=\"def.\"}, :xref[3.4]{.lec label=\"def.\"}, :xref[3.5]{.lec label=\"def.\"}. Zbierka: :xref[3.2.2]{.exbook label=\"úloha\"}, :xref[3.2.1]{.exbook label=\"príklad\"}.]\n\nNa základe nižšie uvedenej pravdivostnej tabuľky rozhodnite, či nasledujúca formula v jazyku $\\Lang$,\nkde $\\Preds = \\{\\sym{loves}^2\\}$ a $\\Consts = \\{\\sym{P}$, $\\sym{L}\\}$ je\ni. tautológia, ii. splniteľná, iii. falzifikovateľná, iv. nesplniteľná.\nRozhodnite o **všetkých** uvedených vlastnostiach\na rozhodnutia **zdôvodnite** na základe definície príslušnej vlastnosti.\n\n$$\nX=\\bigl((\\neg \\sym{loves}(\\sym{P},\\sym{L}) \\limpl \\neg \\sym{loves}(\\sym{L},\\sym{P}))\n    \\land (\\sym{loves}(\\sym{P},\\sym{L}) \\lor \\sym{loves}(\\sym{L},\\sym{P}))\\bigr)\n$$\n\nOznačme:  \n$X_1=(\\neg \\sym{loves}(\\sym{P},\\sym{L}) \\limpl \\neg \\sym{loves}(\\sym{L},\\sym{P}))$  \n$X_2=(\\sym{loves}(\\sym{P},\\sym{L}) \\lor \\sym{loves}(\\sym{L},\\sym{P}))$\n\n:::div{.table.table-truth}\n\n||$\\ \\sym{loves}(\\sym{P},\\sym{L})\\ $ | $\\ \\sym{loves}(\\sym{L},\\sym{P})\\ $ |$\\ \\neg \\sym{loves}(\\sym{P},\\sym{L})\\ $ | $\\ \\neg \\sym{loves}(\\sym{L},\\sym{P})\\ $ | $\\ X_1\\ $| $\\ X_2\\ $ | $\\ X\\ $ |\n|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|\n|$v_1$|$t$|$t$|$\\npmodels$|$\\npmodels$|$\\pmodels$|$\\pmodels$|$\\pmodels$|\n|$v_2$|$t$|$f$|$\\npmodels$|$\\pmodels$|$\\pmodels$|$\\pmodels$|$\\pmodels$|\n|$v_3$|$f$|$t$|$\\pmodels$|$\\npmodels$|$\\npmodels$|$\\pmodels$|$\\npmodels$|\n|$v_4$|$f$|$f$|$\\pmodels$|$\\pmodels$|$\\pmodels$|$\\npmodels$|$\\npmodels$|\n:::",
+      "data": "## Cvičenie 3.:cnt[a]\n:small[:icon[source] Prednášky: :xref[3.2]{.lec label=\"def.\"}, :xref[3.3]{.lec label=\"def.\"}, :xref[3.4]{.lec label=\"def.\"}, :xref[3.5]{.lec label=\"def.\"}. Zbierka: :xref[3.2.2]{.exbook label=\"úloha\"}, :xref[3.2.1]{.exbook label=\"príklad\"}.]\n\nNa základe nižšie uvedenej pravdivostnej tabuľky rozhodnite, či nasledujúca formula v jazyku $\\Lang$,\nkde $\\Preds = \\{\\sym{loves}^2\\}$ a $\\Consts = \\{\\sym{P}$, $\\sym{L}\\}$ je\ni. tautológia, ii. splniteľná, iii. falzifikovateľná, iv. nesplniteľná.\nRozhodnite o **všetkých** uvedených vlastnostiach\na rozhodnutia **zdôvodnite** na základe definície príslušnej vlastnosti.\n\n$$\nA_1=\\bigl((\\neg \\sym{loves}(\\sym{P},\\sym{L}) \\limpl \\neg \\sym{loves}(\\sym{L},\\sym{P}))\n    \\land (\\sym{loves}(\\sym{P},\\sym{L}) \\lor \\sym{loves}(\\sym{L},\\sym{P}))\\bigr)\n$$\n",
+      "comments": []
+    },
+    {
+      "id": 54,
+      "type": "propositionalExplorerVite",
+      "data": null,
       "comments": []
     },
     {
@@ -40,7 +46,13 @@
     {
       "id": 4,
       "type": "text",
-      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $X_1$–$X_3$ k teórii $T$.\n\n:::div{.table.table-truth}\n\n|       | $\\FTAB$ | $\\FFA$ | $\\FSA$ | $A_1$ | $A_2$ | $A_3$ | $X_1$ | $X_2$ | $X_3$ |\n|:------|:-------:|:------:|:------:|:---:|:---:|:---:|:---:|:---:|:---:|\n| $v_1$ |     0   |    0   |    0   | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ |\n| $v_2$ |     0   |    0   |    1   | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ |\n| $v_3$ |     0   |    1   |    0   | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ |\n| $v_4$ |     0   |    1   |    1   | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ |\n| $v_5$ |     1   |    0   |    0   | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ |\n| $v_6$ |     1   |    0   |    1   | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ |\n| $v_7$ |     1   |    1   |    0   | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ |\n| $v_8$ |     1   |    1   |    1   | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ | ⊨/⊭ |\n\n:::\n\n:::aside{.note.bg-transparent.p-0}\n:icon[help]\nPre vzťahy formúl $X_1$, …, $X_3$ s teóriou $T$ (vyplývanie a nezávislosť),\nsú dôležité iba modely teórie $T$, teda tie ohodnotenia, pri ktorých je $T$ pravdivá.\nPreto:\n* Akonáhle pre ohodnotenie $v_i$ zistíme,\nže v ňom nie je pravdivá niektorá z formúl teórie ($A_1$, …, $A_3$),\npravdivosť ostatných formúl pri $v_i$ už  **nemusíme vyhodnocovať**\n(a to tak zvyšných formúl v $T$ ako aj $X_1$, …, $X_3$).\nPríslušné bunky potom nechajte prázdne.\n* Ak je $T$ pri $v_i$ pravdivá, potrebujeme vyhodnotiť všetky formuly $X_1$, …, $X_3$.\n\n:icon[technical]\nPre symboly (ne)pravdivosti formuly/teórie\npri výrokovologickom ohodnotení $\\pmodels$ a $\\npmodels$\nsme v $\\TeX$u zadefinovali makrá `\\pmodels` a `\\npmodels`\n(z angl.  <i>propositionally models</i>).\n:::",
+      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $X_1$–$X_3$ k teórii $T$.\n",
+      "comments": []
+    },
+    {
+      "id": 52,
+      "type": "propositionalExplorerVite",
+      "data": null,
       "comments": []
     },
     {
@@ -89,6 +101,12 @@
       "id": 49,
       "type": "text",
       "data": ":::aside{.small}\n:icon[help] **Pomôcka.** Svoje odpovede v nasledujúcich častiach si môžete overiť v nehodnotenom kvíze [Cvičenie 3.3](https://moodle.uniba.sk/mod/quiz/view.php?id=183098) v Moodli.\n:::",
+      "comments": []
+    },
+    {
+      "id": 53,
+      "type": "propositionalExplorerVite",
+      "data": null,
       "comments": []
     },
     {
