@@ -32,6 +32,12 @@
       "comments": []
     },
     {
+      "id": 56,
+      "type": "propositionalExplorerVite",
+      "data": null,
+      "comments": []
+    },
+    {
       "id": 55,
       "type": "text",
       "data": ":icon[write] **Riešenie:**\n\nFormula $X_2$:\n\n:::enum{.i}\n1. **je/nie je tautológiou**, pretože …\n\n2. …\n\n3. …\n\n4. …\n:::",
