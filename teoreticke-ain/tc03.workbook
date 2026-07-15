@@ -98,6 +98,12 @@
       "comments": []
     },
     {
+      "id": 53,
+      "type": "propositionalExplorerVite",
+      "data": null,
+      "comments": []
+    },
+    {
       "id": 35,
       "type": "text",
       "data": ":icon[source]\nPreštudujte si ukážku analýzy vlastností formuly $X_1$\nv :xref[3.2.3]{.exbook label=\"príklade\"} v zbierke úloh.\n\n:icon[write]\nZaškrtnite `[x]` všetky správne možnosti:\n\na) Ohodnotenie, v ktorom je formula $B$ pravdivá:\n  * [ ] existuje,\n  * [ ] môže ale aj nemusí existovať,\n  * [ ] neexistuje.\n\nb) Ohodnotenie, v ktorom je formula $X_1$ pravdivá:\n  * [ ] existuje,\n  * [ ] môže ale aj nemusí existovať,\n  * [ ] neexistuje.\n\nc) Platí, že\n  * [ ] $X_1$ je tautológia,\n  * [ ] $X_1$ je splniteľná,\n  * [ ] $X_1$ je nesplniteľná,\n  * [ ] $X_1$ je falzifikovateľná,\n  * [ ] nedá sa rozhodnúť o týchto vlastnostiach formuly $X_1$.\n",
