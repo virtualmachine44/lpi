@@ -28,7 +28,7 @@
     {
       "id": 28,
       "type": "text",
-      "data": ":icon[write] **Riešenie:**\n\nFormula $X$:\n\n:::enum{.i}\n1. **je/nie je tautológiou**, pretože …\n\n2. …\n\n3. …\n\n4. …\n:::",
+      "data": ":icon[write] **Riešenie:**\n\nFormula $X_1$:\n\n:::enum{.i}\n1. **je/nie je tautológiou**, pretože …\n\n2. …\n\n3. …\n\n4. …\n:::",
       "comments": []
     },
     {
