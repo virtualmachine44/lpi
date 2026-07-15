@@ -32,12 +32,6 @@
       "comments": []
     },
     {
-      "id": 55,
-      "type": "text",
-      "data": ":icon[write] **Riešenie:**\n\nFormula $X_1$:\n\n:::enum{.i}\n1. **je/nie je tautológiou**, pretože …\n\n2. …\n\n3. …\n\n4. …\n:::",
-      "comments": []
-    },
-    {
       "id": 20,
       "type": "text",
       "data": ":icon[rules] **Dohoda.**\nBez ujmy na všeobecnosti môžete v tomto aj ďalších cvičeniach\npoužívať ako pravdivostné hodnoty $f = 0$ a $t = 1$.\n\n:icon[warning]{.text-danger}\n**Uvedomte si** však, že podľa :xref[2.31]{.lec label=\"def.\"} z prednášky\nvýrokovologické ohodnotenie $v$ priraďuje pravdivostné hodnoty $f$ a $t$\n**iba predikátovým atómom**.\nPreto napr. **hodnota $v(\\alertsymbol{\\lnot} P(c))$ nie je definovaná**.\n\nO pravdivosti **neatomických** formúl pri ohodnotení sa preto\n**musíme** vyjadrovať pomocou relácie $\\pmodels$.\nNapr. pre formulu $\\lnot P(c)$ a dané ohodnotenie $v$\nmôžeme podľa :xref[2.33]{.lec label=\"def.\"} odvodiť\n$v \\pmodels \\lnot P(c)$ (čítame „$\\lnot P(c)$ je pravdivá pri ohodnotení $v$“)\nalebo :span[$v \\npmodels \\lnot P(c)$]{.text-nowrap} („$\\lnot P(c)$ nie je pravdivá pri ohodnotení $v$“).\n\nO pravdivosti predikátového atómu, napr. $P(c)$, pri ohodnotení $v$\nsa **môžeme** vyjadrovať **aj** prostredníctvom $v(P(c)) = t$ resp. $v(P(c)) = f$,\n**aj** pomocou $v \\pmodels P(c)$ resp. :span[$v \\npmodels P(c)$]{.text-nowrap}.\nJe to tak preto, že podľa :xref[2.33]{.lec label=\"def.\"}\npre predikátové atómy $a \\in \\PAtoms$\nje $v(a) = t$ ekvivalentné s $v \\pmodels a$;\nzároveň $v(a) = f$ je ekvivalentné s :span[$v \\npmodels a$]{.text-nowrap}\n(lebo $f \\neq t$ podľa :xref[2.31]{.lec label=\"def.\"}).\n",
