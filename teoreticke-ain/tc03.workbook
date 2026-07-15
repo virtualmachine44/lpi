@@ -44,12 +44,6 @@
       "comments": []
     },
     {
-      "id": 51,
-      "type": "propositionalExplorerVite",
-      "data": null,
-      "comments": []
-    },
-    {
       "id": 48,
       "type": "text",
       "data": ":::aside{.small}\n:icon[help] **Pomôcka.** Svoje odpovede v nasledujúcich častiach si môžete overiť v nehodnotenom kvíze [Cvičenie 3.2](https://moodle.uniba.sk/mod/quiz/view.php?id=183095) v Moodli.\n:::",
