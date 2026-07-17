@@ -100,6 +100,11 @@
               "value": "(¬sings(A)→cool(A))",
               "truthValue": "0/1",
               "game": []
+            },
+            {
+              "value": "",
+              "truthValue": "0/1",
+              "game": []
             }
           ]
         },
