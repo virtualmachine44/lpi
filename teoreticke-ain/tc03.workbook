@@ -220,7 +220,7 @@
     {
       "id": 39,
       "type": "text",
-      "data": "::h3[:icon[write] **d)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails X_2$\n* [ ] $X_2 \\npentails T$\n* [ ] $T \\npentails X_2$\n* [ ] $X_2$ je nezávislá od $T$\n* [ ] $T \\npentails X_2$ a $X_2$ **nie je** nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
+      "data": "::h3[:icon[write] **d)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails A_2$\n* [ ] $A_2 \\npentails T$\n* [ ] $T \\npentails A_2$\n* [ ] $X_2$ je nezávislá od $T$\n* [ ] $T \\npentails X_2$ a $X_2$ **nie je** nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
       "comments": []
     },
     {
