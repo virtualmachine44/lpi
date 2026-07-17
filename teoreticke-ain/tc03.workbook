@@ -28,13 +28,7 @@
           "predicates": "loves/2"
         },
         "formulas": {
-          "formulas": [
-            {
-              "value": "",
-              "truthValue": "0/1",
-              "game": []
-            }
-          ]
+          "formulas": []
         },
         "valuation": {
           "valuation": {}
