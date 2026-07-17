@@ -82,7 +82,7 @@
       "data": {
         "language": {
           "constants": "A, B",
-          "predicates": "dances_"
+          "predicates": "dances_with/2, cool/1, sings"
         },
         "formulas": {
           "formulas": [
