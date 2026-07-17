@@ -97,7 +97,7 @@
               "game": []
             },
             {
-              "value": "(¬sings(A)→cool(A))​",
+              "value": "(¬sings(A)→cool(A))",
               "truthValue": "0/1",
               "game": []
             }
@@ -113,35 +113,43 @@
           "inputTable": {
             "0": {
               "0": "none",
-              "1": "none"
+              "1": "none",
+              "2": "none"
             },
             "1": {
               "0": "none",
-              "1": "none"
+              "1": "none",
+              "2": "none"
             },
             "2": {
               "0": "none",
-              "1": "none"
+              "1": "none",
+              "2": "none"
             },
             "3": {
               "0": "none",
-              "1": "none"
+              "1": "none",
+              "2": "none"
             },
             "4": {
               "0": "none",
-              "1": "none"
+              "1": "none",
+              "2": "none"
             },
             "5": {
               "0": "none",
-              "1": "none"
+              "1": "none",
+              "2": "none"
             },
             "6": {
               "0": "none",
-              "1": "none"
+              "1": "none",
+              "2": "none"
             },
             "7": {
               "0": "none",
-              "1": "none"
+              "1": "none",
+              "2": "none"
             }
           },
           "isTableChecked": false,
