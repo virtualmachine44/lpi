@@ -73,7 +73,7 @@
     {
       "id": 4,
       "type": "text",
-      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $X_1$–$X_3$ k teórii $T$.\n",
+      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $A_1$–$A_6$ k teórii $T$.\n",
       "comments": []
     },
     {
