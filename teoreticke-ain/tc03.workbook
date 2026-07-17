@@ -87,7 +87,7 @@
         "formulas": {
           "formulas": [
             {
-              "value": "(dansec_with)",
+              "value": "(dansec_with())",
               "truthValue": "0/1",
               "game": []
             }
