@@ -120,7 +120,7 @@
           }
         },
         "tabs": {
-          "activeTab": "oneValuation"
+          "activeTab": "allValuations"
         },
         "allValuations": {
           "inputTable": {
