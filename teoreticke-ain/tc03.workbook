@@ -87,7 +87,17 @@
         "formulas": {
           "formulas": [
             {
-              "value": "(dansec_with())",
+              "value": "(dances_with(A,B)→(cool(A)∨sings(A)))",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "value": "(¬dances_with(A,B)∨¬sings(A))",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "value": "",
               "truthValue": "0/1",
               "game": []
             }
@@ -100,7 +110,40 @@
           "activeTab": "allValuations"
         },
         "allValuations": {
-          "inputTable": {},
+          "inputTable": {
+            "0": {
+              "0": "none",
+              "1": "none"
+            },
+            "1": {
+              "0": "none",
+              "1": "none"
+            },
+            "2": {
+              "0": "none",
+              "1": "none"
+            },
+            "3": {
+              "0": "none",
+              "1": "none"
+            },
+            "4": {
+              "0": "none",
+              "1": "none"
+            },
+            "5": {
+              "0": "none",
+              "1": "none"
+            },
+            "6": {
+              "0": "none",
+              "1": "none"
+            },
+            "7": {
+              "0": "none",
+              "1": "none"
+            }
+          },
           "isTableChecked": false,
           "checkedRows": {},
           "currentExploredRow": null,
