@@ -189,7 +189,7 @@
               "5": "none"
             }
           },
-          "isTableChecked": true,
+          "isTableChecked": false,
           "checkedRows": {},
           "currentExploredRow": 0,
           "checkedColumns": {}
