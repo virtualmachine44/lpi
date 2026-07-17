@@ -81,7 +81,7 @@
       "type": "propositionalExplorerVite",
       "data": {
         "language": {
-          "constants": "",
+          "constants": "A, B",
           "predicates": ""
         },
         "formulas": {
@@ -97,7 +97,7 @@
           "valuation": {}
         },
         "tabs": {
-          "activeTab": "oneValuation"
+          "activeTab": "allValuations"
         },
         "allValuations": {
           "inputTable": {},
