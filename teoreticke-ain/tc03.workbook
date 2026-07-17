@@ -214,7 +214,7 @@
     {
       "id": 40,
       "type": "text",
-      "data": "::h3[:icon[write] **c)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n\n* [ ] $T \\pentails X_1$\n* [ ] $X_1 \\pentails T$\n* [ ] $X_1$ je nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
+      "data": "::h3[:icon[write] **c)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n\n* [ ] $T \\pentails A_1$\n* [ ] $A_1 \\pentails T$\n* [ ] $A_1$ je nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
       "comments": []
     },
     {
