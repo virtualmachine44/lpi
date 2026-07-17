@@ -22,13 +22,34 @@
     {
       "id": 54,
       "type": "propositionalExplorerVite",
-      "data": null,
+      "data": {
+        "language": {
+          "constants": "P, L",
+          "predicates": "loves/2"
+        },
+        "formulas": {
+          "formulas": []
+        },
+        "valuation": {
+          "valuation": {}
+        },
+        "tabs": {
+          "activeTab": "allValuations"
+        },
+        "allValuations": {
+          "inputTable": {},
+          "isTableChecked": false,
+          "checkedRows": {},
+          "currentExploredRow": null,
+          "checkedColumns": {}
+        }
+      },
       "comments": []
     },
     {
       "id": 28,
       "type": "text",
-      "data": ":icon[write] **Riešenie:**\n\nFormula $X$:\n\n:::enum{.i}\n1. **je/nie je tautológiou**, pretože …\n\n2. …\n\n3. …\n\n4. …\n:::",
+      "data": ":icon[write] **Riešenie:**\n\nFormula $A_1$:\n\n:::enum{.i}\n1. **je/nie je tautológiou**, pretože …\n\n2. …\n\n3. …\n\n4. …\n:::",
       "comments": []
     },
     {
@@ -40,19 +61,136 @@
     {
       "id": 2,
       "type": "text",
-      "data": "## Cvičenie 3.:cnt[a]\n:small[:icon[source]\nPrednášky:\n:xref[3.11]{.lec label=\"def.\"},\n:xref[3.13]{.lec label=\"def.\"},\n:xref[3.16]{.lec label=\"def.\"},\n:xref[3.19]{.lec label=\"tvrdenie\"},\n[tabuľka na str. 74](https://fmfi-uk-1-ain-412.github.io/lpi/prednasky/poznamky-z-prednasok.pdf#nameddest=page.74).    \nZbierka:\n:xref[3.1.1]{.exbook label=\"úloha\"},\n:xref[3.1.2]{.exbook label=\"príklad\"}.]\n\nMajme výrokovologickú teóriu $T = \\{ A_1, A_2, A_3 \\}$, kde\n\n$$\n  \\begin{aligned}\n    %A_1 =& \\bigl(\\FTAB \\limpl (\\FTAB \\lor \\FSA)\\bigr) , \\\\\n    A_1 =& \\bigl(\\FTAB \\limpl (\\FFA \\lor \\FSA)\\bigr) , \\\\\n    A_2 =& (\\neg \\FTAB \\lor \\neg \\FSA) , \\\\\n    A_3 =& (\\neg \\FSA \\limpl \\FFA)\n  \\end{aligned}\n$$\n\na formuly\n\n$$\n  \\begin{aligned}\n    X_1 &= (\\FTAB \\limpl \\FFA),\\\\\n    X_2 &= \\neg \\FSA,\\\\\n    X_3 &= (\\lnot \\FSA \\land \\lnot \\FFA).\n  \\end{aligned}\n$$",
+      "data": "## Cvičenie 3.:cnt[a]\n:small[:icon[source]\nPrednášky:\n:xref[3.11]{.lec label=\"def.\"},\n:xref[3.13]{.lec label=\"def.\"},\n:xref[3.16]{.lec label=\"def.\"},\n:xref[3.19]{.lec label=\"tvrdenie\"},\n[tabuľka na str. 74](https://fmfi-uk-1-ain-412.github.io/lpi/prednasky/poznamky-z-prednasok.pdf#nameddest=page.74).    \nZbierka:\n:xref[3.1.1]{.exbook label=\"úloha\"},\n:xref[3.1.2]{.exbook label=\"príklad\"}.]\n\nMajme výrokovologickú teóriu $T = \\{ A_1, A_2, A_3 \\}$, kde\n\n$$\n  \\begin{aligned}\n    %A_1 =& \\bigl(\\FTAB \\limpl (\\FTAB \\lor \\FSA)\\bigr) , \\\\\n    A_1 =& \\bigl(\\FTAB \\limpl (\\FFA \\lor \\FSA)\\bigr) , \\\\\n    A_2 =& (\\neg \\FTAB \\lor \\neg \\FSA) , \\\\\n    A_3 =& (\\neg \\FSA \\limpl \\FFA)\n  \\end{aligned}\n$$\n\na formuly\n\n$A_4 = (\\FTAB \\limpl \\FFA),\\\\$\n$A_5 = \\neg \\FSA,\\\\$\n$A_6 = (\\lnot \\FSA \\land \\lnot \\FFA).$",
       "comments": []
     },
     {
       "id": 4,
       "type": "text",
-      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $X_1$–$X_3$ k teórii $T$.\n",
+      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $A_4$–$A_6$ k teórii $T$.\n",
       "comments": []
     },
     {
       "id": 52,
       "type": "propositionalExplorerVite",
-      "data": null,
+      "data": {
+        "language": {
+          "constants": "A, B",
+          "predicates": "dances_with/2, cool/1, sings/1"
+        },
+        "formulas": {
+          "formulas": [
+            {
+              "value": "(dances_with(A,B)→(cool(A)∨sings(A)))",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "value": "(¬dances_with(A,B)∨¬sings(A))",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "value": "(¬sings(A)→cool(A))",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "value": "(dances_with(A,B)→cool(A))",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "value": "¬sings(A)",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "value": "(¬sings(A)∧¬cool(A))",
+              "truthValue": "0/1",
+              "game": []
+            }
+          ]
+        },
+        "valuation": {
+          "valuation": {}
+        },
+        "tabs": {
+          "activeTab": "allValuations"
+        },
+        "allValuations": {
+          "inputTable": {
+            "0": {
+              "0": "none",
+              "1": "none",
+              "2": "none",
+              "3": "none",
+              "4": "none",
+              "5": "none"
+            },
+            "1": {
+              "0": "none",
+              "1": "none",
+              "2": "none",
+              "3": "none",
+              "4": "none",
+              "5": "none"
+            },
+            "2": {
+              "0": "none",
+              "1": "none",
+              "2": "none",
+              "3": "none",
+              "4": "none",
+              "5": "none"
+            },
+            "3": {
+              "0": "none",
+              "1": "none",
+              "2": "none",
+              "3": "none",
+              "4": "none",
+              "5": "none"
+            },
+            "4": {
+              "0": "none",
+              "1": "none",
+              "2": "none",
+              "3": "none",
+              "4": "none",
+              "5": "none"
+            },
+            "5": {
+              "0": "none",
+              "1": "none",
+              "2": "none",
+              "3": "none",
+              "4": "none",
+              "5": "none"
+            },
+            "6": {
+              "0": "none",
+              "1": "none",
+              "2": "none",
+              "3": "none",
+              "4": "none",
+              "5": "none"
+            },
+            "7": {
+              "0": "none",
+              "1": "none",
+              "2": "none",
+              "3": "none",
+              "4": "none",
+              "5": "none"
+            }
+          },
+          "isTableChecked": false,
+          "checkedRows": {},
+          "currentExploredRow": null,
+          "checkedColumns": {}
+        }
+      },
       "comments": []
     },
     {
@@ -70,19 +208,19 @@
     {
       "id": 40,
       "type": "text",
-      "data": "::h3[:icon[write] **c)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n\n* [ ] $T \\pentails X_1$\n* [ ] $X_1 \\pentails T$\n* [ ] $X_1$ je nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
+      "data": "::h3[:icon[write] **c)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n\n* [ ] $T \\pentails A_4$\n* [ ] $A_4 \\pentails T$\n* [ ] $A_4$ je nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
       "comments": []
     },
     {
       "id": 39,
       "type": "text",
-      "data": "::h3[:icon[write] **d)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails X_2$\n* [ ] $X_2 \\npentails T$\n* [ ] $T \\npentails X_2$\n* [ ] $X_2$ je nezávislá od $T$\n* [ ] $T \\npentails X_2$ a $X_2$ **nie je** nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
+      "data": "::h3[:icon[write] **d)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails A_5$\n* [ ] $A_5 \\npentails T$\n* [ ] $T \\npentails A_5$\n* [ ] $A_5$ je nezávislá od $T$\n* [ ] $T \\npentails A_5$ a $A_5$ **nie je** nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
       "comments": []
     },
     {
       "id": 38,
       "type": "text",
-      "data": "::h3[:icon[write] **e)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails X_3$\n* [ ] $X_3$ je nezávislá od $T$\n* [ ] $T \\npentails X_3$ a $X_3$ **nie je** nezávislá od $T$\n* [ ] $T \\pentails \\neg X_3$\n\n**Zdôvodnenie:** \n...",
+      "data": "::h3[:icon[write] **e)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails A_6$\n* [ ] $A_6$ je nezávislá od $T$\n* [ ] $T \\npentails A_6$ a $A_6$ **nie je** nezávislá od $T$\n* [ ] $T \\pentails \\neg A_6$\n\n**Zdôvodnenie:** \n...",
       "comments": []
     },
     {
@@ -101,12 +239,6 @@
       "id": 49,
       "type": "text",
       "data": ":::aside{.small}\n:icon[help] **Pomôcka.** Svoje odpovede v nasledujúcich častiach si môžete overiť v nehodnotenom kvíze [Cvičenie 3.3](https://moodle.uniba.sk/mod/quiz/view.php?id=183098) v Moodli.\n:::",
-      "comments": []
-    },
-    {
-      "id": 53,
-      "type": "propositionalExplorerVite",
-      "data": null,
       "comments": []
     },
     {
