@@ -22,7 +22,34 @@
     {
       "id": 54,
       "type": "propositionalExplorerVite",
-      "data": null,
+      "data": {
+        "language": {
+          "constants": "",
+          "predicates": ""
+        },
+        "formulas": {
+          "formulas": [
+            {
+              "value": "",
+              "truthValue": "0/1",
+              "game": []
+            }
+          ]
+        },
+        "valuation": {
+          "valuation": {}
+        },
+        "tabs": {
+          "activeTab": "oneValuation"
+        },
+        "allValuations": {
+          "inputTable": {},
+          "isTableChecked": false,
+          "checkedRows": {},
+          "currentExploredRow": null,
+          "checkedColumns": {}
+        }
+      },
       "comments": []
     },
     {
