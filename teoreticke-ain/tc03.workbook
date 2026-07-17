@@ -97,7 +97,7 @@
               "game": []
             },
             {
-              "value": "",
+              "value": "(!)",
               "truthValue": "0/1",
               "game": []
             }
