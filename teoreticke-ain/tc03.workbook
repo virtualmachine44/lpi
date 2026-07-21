@@ -24,24 +24,30 @@
       "type": "propositionalExplorerVite",
       "data": {
         "language": {
-          "constants": "P, L",
-          "predicates": "loves/2"
+          "constants": "",
+          "predicates": ""
         },
         "formulas": {
-          "formulas": []
+          "formulas": [
+            {
+              "value": "",
+              "truthValue": "0/1",
+              "game": []
+            }
+          ]
         },
         "valuation": {
           "valuation": {}
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
           "inputTable": {},
           "isTableChecked": false,
-          "checkedRows": {},
+          "checkedRows": [],
           "currentExploredRow": null,
-          "checkedColumns": {}
+          "checkedColumns": []
         }
       },
       "comments": []
