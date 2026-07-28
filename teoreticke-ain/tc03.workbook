@@ -92,6 +92,11 @@
               "game": []
             },
             {
+              "value": "(¬dances_with(A,B)∨¬sings(A))",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
               "value": "",
               "truthValue": "0/1",
               "game": []
@@ -110,10 +115,18 @@
               "0": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "1": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "1": {
               "0": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "1": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -122,10 +135,18 @@
               "0": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "1": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "3": {
               "0": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "1": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -134,10 +155,18 @@
               "0": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "1": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "5": {
               "0": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "1": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -146,10 +175,18 @@
               "0": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "1": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "7": {
               "0": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "1": {
                 "value": "none",
                 "displayCorrectness": false
               }
