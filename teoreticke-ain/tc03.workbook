@@ -24,7 +24,7 @@
       "type": "propositionalExplorerVite",
       "data": {
         "language": {
-          "constants": "",
+          "constants": "P,L",
           "predicates": ""
         },
         "formulas": {
