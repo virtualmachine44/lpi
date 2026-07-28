@@ -25,7 +25,7 @@
       "data": {
         "language": {
           "constants": "P,L",
-          "predicates": ""
+          "predicates": "loves/2"
         },
         "formulas": {
           "formulas": [
