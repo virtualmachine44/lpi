@@ -105,6 +105,16 @@
               "value": "(dances_with(A,B)→cool(A))",
               "truthValue": "0/1",
               "game": []
+            },
+            {
+              "value": "¬sings(A)",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "value": "",
+              "truthValue": "0/1",
+              "game": []
             }
           ]
         },
@@ -132,6 +142,10 @@
               "3": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "4": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "1": {
@@ -148,6 +162,10 @@
                 "displayCorrectness": false
               },
               "3": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "4": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -168,6 +186,10 @@
               "3": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "4": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "3": {
@@ -184,6 +206,10 @@
                 "displayCorrectness": false
               },
               "3": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "4": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -204,6 +230,10 @@
               "3": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "4": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "5": {
@@ -220,6 +250,10 @@
                 "displayCorrectness": false
               },
               "3": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "4": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -240,6 +274,10 @@
               "3": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "4": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "7": {
@@ -256,6 +294,10 @@
                 "displayCorrectness": false
               },
               "3": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "4": {
                 "value": "none",
                 "displayCorrectness": false
               }
