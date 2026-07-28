@@ -28,13 +28,7 @@
           "predicates": "loves/2"
         },
         "formulas": {
-          "formulas": [
-            {
-              "value": "((¬loves(P,L)→¬loves(L,P))∧(loves(P,L)∨loves(L,P)))",
-              "truthValue": "0/1",
-              "game": []
-            }
-          ]
+          "formulas": []
         },
         "valuation": {
           "valuation": {}
@@ -43,32 +37,7 @@
           "activeTab": "allValuations"
         },
         "allValuations": {
-          "inputTable": {
-            "0": {
-              "0": {
-                "value": "none",
-                "displayCorrectness": false
-              }
-            },
-            "1": {
-              "0": {
-                "value": "none",
-                "displayCorrectness": false
-              }
-            },
-            "2": {
-              "0": {
-                "value": "none",
-                "displayCorrectness": false
-              }
-            },
-            "3": {
-              "0": {
-                "value": "none",
-                "displayCorrectness": false
-              }
-            }
-          },
+          "inputTable": {},
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
