@@ -20,39 +20,6 @@
       "comments": []
     },
     {
-      "id": 54,
-      "type": "propositionalExplorerVite",
-      "data": {
-        "language": {
-          "constants": "P,L",
-          "predicates": "loves/2"
-        },
-        "formulas": {
-          "formulas": [
-            {
-              "value": "",
-              "truthValue": "0/1",
-              "game": []
-            }
-          ]
-        },
-        "valuation": {
-          "valuation": {}
-        },
-        "tabs": {
-          "activeTab": "allValuations"
-        },
-        "allValuations": {
-          "inputTable": {},
-          "isTableChecked": false,
-          "checkedRows": [],
-          "currentExploredRow": null,
-          "checkedColumns": []
-        }
-      },
-      "comments": []
-    },
-    {
       "id": 55,
       "type": "propositionalExplorer",
       "data": null,
