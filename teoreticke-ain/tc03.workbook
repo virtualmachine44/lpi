@@ -99,7 +99,35 @@
     {
       "id": 57,
       "type": "propositionalExplorer",
-      "data": null,
+      "data": {
+        "language": {
+          "constants": "",
+          "predicates": ""
+        },
+        "formulas": {
+          "formulas": [
+            {
+              "name": "",
+              "value": "(dances_with(A,B)→(cool(A)∨sings(A)))",
+              "truthValue": "0/1",
+              "game": []
+            }
+          ]
+        },
+        "valuation": {
+          "valuation": {}
+        },
+        "tabs": {
+          "activeTab": "allValuations"
+        },
+        "allValuations": {
+          "inputTable": {},
+          "isTableChecked": false,
+          "checkedRows": [],
+          "currentExploredRow": null,
+          "checkedColumns": []
+        }
+      },
       "comments": []
     },
     {
