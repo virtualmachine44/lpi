@@ -20,16 +20,17 @@
       "comments": []
     },
     {
-      "id": 54,
-      "type": "propositionalExplorerVite",
+      "id": 55,
+      "type": "propositionalExplorer",
       "data": {
         "language": {
-          "constants": "P,L",
+          "constants": "P, L",
           "predicates": "loves/2"
         },
         "formulas": {
           "formulas": [
             {
+              "name": "",
               "value": "",
               "truthValue": "0/1",
               "game": []
@@ -71,14 +72,8 @@
       "comments": []
     },
     {
-      "id": 4,
-      "type": "text",
-      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $A_4$–$A_6$ k teórii $T$.\n",
-      "comments": []
-    },
-    {
-      "id": 52,
-      "type": "propositionalExplorerVite",
+      "id": 57,
+      "type": "propositionalExplorer",
       "data": {
         "language": {
           "constants": "A, B",
@@ -87,31 +82,37 @@
         "formulas": {
           "formulas": [
             {
+              "name": "",
               "value": "(dances_with(A,B)→(cool(A)∨sings(A)))",
               "truthValue": "0/1",
               "game": []
             },
             {
+              "name": "",
               "value": "(¬dances_with(A,B)∨¬sings(A))",
               "truthValue": "0/1",
               "game": []
             },
             {
+              "name": "",
               "value": "(¬sings(A)→cool(A))",
               "truthValue": "0/1",
               "game": []
             },
             {
+              "name": "",
               "value": "(dances_with(A,B)→cool(A))",
               "truthValue": "0/1",
               "game": []
             },
             {
+              "name": "",
               "value": "¬sings(A)",
               "truthValue": "0/1",
               "game": []
             },
             {
+              "name": "",
               "value": "(¬sings(A)∧¬cool(A))",
               "truthValue": "0/1",
               "game": []
@@ -341,6 +342,12 @@
           "checkedColumns": []
         }
       },
+      "comments": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $A_4$–$A_6$ k teórii $T$.\n",
       "comments": []
     },
     {
