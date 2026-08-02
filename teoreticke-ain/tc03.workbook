@@ -107,8 +107,8 @@
       "type": "propositionalExplorer",
       "data": {
         "language": {
-          "constants": "",
-          "predicates": ""
+          "constants": "A, B",
+          "predicates": "dances_with/2"
         },
         "formulas": {
           "formulas": [
