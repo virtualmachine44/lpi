@@ -144,7 +144,7 @@
             },
             {
               "name": "",
-              "value": "",
+              "value": "(¬sings(A)∧¬cool(A))",
               "truthValue": "0/1",
               "game": []
             }
@@ -178,6 +178,10 @@
               "4": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "5": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "1": {
@@ -198,6 +202,10 @@
                 "displayCorrectness": false
               },
               "4": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "5": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -222,6 +230,10 @@
               "4": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "5": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "3": {
@@ -242,6 +254,10 @@
                 "displayCorrectness": false
               },
               "4": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "5": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -266,6 +282,10 @@
               "4": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "5": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "5": {
@@ -286,6 +306,10 @@
                 "displayCorrectness": false
               },
               "4": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "5": {
                 "value": "none",
                 "displayCorrectness": false
               }
@@ -310,6 +334,10 @@
               "4": {
                 "value": "none",
                 "displayCorrectness": false
+              },
+              "5": {
+                "value": "none",
+                "displayCorrectness": false
               }
             },
             "7": {
@@ -330,6 +358,10 @@
                 "displayCorrectness": false
               },
               "4": {
+                "value": "none",
+                "displayCorrectness": false
+              },
+              "5": {
                 "value": "none",
                 "displayCorrectness": false
               }
