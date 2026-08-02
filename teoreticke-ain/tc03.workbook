@@ -80,7 +80,35 @@
     {
       "id": 56,
       "type": "propositionalExplorer",
-      "data": null,
+      "data": {
+        "language": {
+          "constants": "",
+          "predicates": ""
+        },
+        "formulas": {
+          "formulas": [
+            {
+              "name": "",
+              "value": "",
+              "truthValue": "0/1",
+              "game": []
+            }
+          ]
+        },
+        "valuation": {
+          "valuation": {}
+        },
+        "tabs": {
+          "activeTab": "allValuations"
+        },
+        "allValuations": {
+          "inputTable": {},
+          "isTableChecked": false,
+          "checkedRows": [],
+          "currentExploredRow": null,
+          "checkedColumns": []
+        }
+      },
       "comments": []
     },
     {
