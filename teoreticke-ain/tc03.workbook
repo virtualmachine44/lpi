@@ -157,7 +157,12 @@
               "name": "",
               "value": "(dances_with(A,B)→cool(A))",
               "truthValue": "1",
-              "game": []
+              "game": [
+                {
+                  "turn": "player",
+                  "selectedSubformulaIndex": 1
+                }
+              ]
             },
             {
               "name": "",
