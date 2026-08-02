@@ -336,28 +336,28 @@
             },
             "5": {
               "0": {
-                "value": "none",
-                "displayCorrectness": true
+                "value": "true",
+                "displayCorrectness": false
               },
               "1": {
-                "value": "none",
-                "displayCorrectness": true
+                "value": "true",
+                "displayCorrectness": false
               },
               "2": {
-                "value": "none",
-                "displayCorrectness": true
+                "value": "true",
+                "displayCorrectness": false
               },
               "3": {
-                "value": "none",
-                "displayCorrectness": true
+                "value": "true",
+                "displayCorrectness": false
               },
               "4": {
-                "value": "none",
-                "displayCorrectness": true
+                "value": "true",
+                "displayCorrectness": false
               },
               "5": {
-                "value": "none",
-                "displayCorrectness": true
+                "value": "true",
+                "displayCorrectness": false
               }
             },
             "6": {
@@ -413,18 +413,17 @@
               }
             }
           },
-          "isTableChecked": true,
+          "isTableChecked": false,
           "checkedRows": [
             0,
             1,
             2,
             3,
-            5,
             6,
             7,
             4
           ],
-          "currentExploredRow": 4,
+          "currentExploredRow": null,
           "checkedColumns": []
         }
       },
