@@ -131,14 +131,23 @@
                 {
                   "turn": "player",
                   "selectedSubformulaIndex": 1
+                },
+                {
+                  "turn": "world",
+                  "selectedSubformulaIndex": 0
                 }
               ]
             },
             {
               "name": "",
               "value": "(¬sings(A)→cool(A))",
-              "truthValue": "1",
-              "game": []
+              "truthValue": "0",
+              "game": [
+                {
+                  "turn": "world",
+                  "selectedSubformulaIndex": 0
+                }
+              ]
             },
             {
               "name": "",
