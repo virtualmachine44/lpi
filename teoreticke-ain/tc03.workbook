@@ -102,13 +102,19 @@
       "data": {
         "language": {
           "constants": "A, B",
-          "predicates": "dances_with/2, cool/1"
+          "predicates": "dances_with/2, cool/1, sings/1"
         },
         "formulas": {
           "formulas": [
             {
               "name": "",
               "value": "(dances_with(A,B)→(cool(A)∨sings(A)))",
+              "truthValue": "0/1",
+              "game": []
+            },
+            {
+              "name": "",
+              "value": "",
               "truthValue": "0/1",
               "game": []
             }
@@ -121,7 +127,56 @@
           "activeTab": "allValuations"
         },
         "allValuations": {
-          "inputTable": {},
+          "inputTable": {
+            "0": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "1": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "2": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "3": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "4": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "5": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "6": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "7": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            }
+          },
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
