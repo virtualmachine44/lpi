@@ -151,10 +151,14 @@
           ]
         },
         "valuation": {
-          "valuation": {}
+          "valuation": {
+            "dances_with(A,B)": true,
+            "cool(A)": false,
+            "sings(A)": false
+          }
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
           "inputTable": {
@@ -369,7 +373,7 @@
           },
           "isTableChecked": false,
           "checkedRows": [],
-          "currentExploredRow": null,
+          "currentExploredRow": 4,
           "checkedColumns": []
         }
       },
