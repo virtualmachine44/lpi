@@ -101,7 +101,7 @@
       "type": "propositionalExplorer",
       "data": {
         "language": {
-          "constants": "",
+          "constants": "A, B",
           "predicates": ""
         },
         "formulas": {
