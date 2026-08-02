@@ -158,7 +158,7 @@
           }
         },
         "tabs": {
-          "activeTab": "oneValuation"
+          "activeTab": "allValuations"
         },
         "allValuations": {
           "inputTable": {
@@ -220,7 +220,7 @@
                 "displayCorrectness": false
               },
               "1": {
-                "value": "none",
+                "value": "true",
                 "displayCorrectness": false
               },
               "2": {
@@ -246,15 +246,15 @@
                 "displayCorrectness": false
               },
               "1": {
-                "value": "none",
+                "value": "true",
                 "displayCorrectness": false
               },
               "2": {
-                "value": "none",
+                "value": "true",
                 "displayCorrectness": false
               },
               "3": {
-                "value": "none",
+                "value": "true",
                 "displayCorrectness": false
               },
               "4": {
@@ -272,23 +272,23 @@
                 "displayCorrectness": false
               },
               "1": {
-                "value": "none",
+                "value": "true",
                 "displayCorrectness": false
               },
               "2": {
-                "value": "none",
+                "value": "true",
                 "displayCorrectness": false
               },
               "3": {
-                "value": "none",
+                "value": "true",
                 "displayCorrectness": false
               },
               "4": {
-                "value": "none",
+                "value": "false",
                 "displayCorrectness": false
               },
               "5": {
-                "value": "none",
+                "value": "false",
                 "displayCorrectness": false
               }
             },
@@ -373,7 +373,7 @@
           },
           "isTableChecked": false,
           "checkedRows": [],
-          "currentExploredRow": 4,
+          "currentExploredRow": null,
           "checkedColumns": []
         }
       },
