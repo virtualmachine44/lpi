@@ -115,14 +115,24 @@
             {
               "name": "",
               "value": "(dances_with(A,B)→(cool(A)∨sings(A)))",
-              "truthValue": "0/1",
-              "game": []
+              "truthValue": "0",
+              "game": [
+                {
+                  "turn": "world",
+                  "selectedSubformulaIndex": 0
+                }
+              ]
             },
             {
               "name": "",
               "value": "(¬dances_with(A,B)∨¬sings(A))",
               "truthValue": "1",
-              "game": []
+              "game": [
+                {
+                  "turn": "player",
+                  "selectedSubformulaIndex": 1
+                }
+              ]
             },
             {
               "name": "",
@@ -158,7 +168,7 @@
           }
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
           "inputTable": {
@@ -382,7 +392,7 @@
             6,
             7
           ],
-          "currentExploredRow": null,
+          "currentExploredRow": 4,
           "checkedColumns": [
             0,
             1,
