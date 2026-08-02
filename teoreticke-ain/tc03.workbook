@@ -24,14 +24,14 @@
       "type": "propositionalExplorer",
       "data": {
         "language": {
-          "constants": "",
-          "predicates": ""
+          "constants": "P, L",
+          "predicates": "lov"
         },
         "formulas": {
           "formulas": [
             {
               "name": "",
-              "value": "",
+              "value": "((¬loves(P,L)→¬loves(L,P))∧(loves(P,L)∨loves(L,P)))",
               "truthValue": "0/1",
               "game": []
             }
