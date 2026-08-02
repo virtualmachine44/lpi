@@ -126,7 +126,7 @@
             },
             {
               "name": "",
-              "value": "",
+              "value": "(¬sings(A)→cool(A))​",
               "truthValue": "0/1",
               "game": []
             }
