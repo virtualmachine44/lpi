@@ -178,10 +178,10 @@
             {
               "name": "",
               "value": "(¬sings(A)∧¬cool(A))",
-              "truthValue": "0",
+              "truthValue": "1",
               "game": [
                 {
-                  "turn": "player",
+                  "turn": "world",
                   "selectedSubformulaIndex": 1
                 },
                 {
