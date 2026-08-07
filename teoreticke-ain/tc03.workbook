@@ -47,33 +47,40 @@
           "inputTable": {
             "0": {
               "0": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               }
             },
             "1": {
               "0": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               }
             },
             "2": {
               "0": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               }
             },
             "3": {
               "0": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               }
             }
           },
-          "isTableChecked": false,
-          "checkedRows": [],
+          "isTableChecked": true,
+          "checkedRows": [
+            0,
+            1,
+            2,
+            3
+          ],
           "currentExploredRow": null,
-          "checkedColumns": [],
+          "checkedColumns": [
+            0
+          ],
           "displayFormulas": true
         }
       },
