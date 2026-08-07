@@ -38,10 +38,13 @@
           ]
         },
         "valuation": {
-          "valuation": {}
+          "valuation": {
+            "loves(P,L)": null,
+            "loves(L,P)": null
+          }
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
           "inputTable": {
