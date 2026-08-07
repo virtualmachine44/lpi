@@ -47,14 +47,14 @@
           "inputTable": {
             "0": {
               "0": {
-                "value": "true",
-                "displayCorrectness": true
+                "value": "false",
+                "displayCorrectness": false
               }
             },
             "1": {
               "0": {
-                "value": "true",
-                "displayCorrectness": true
+                "value": "false",
+                "displayCorrectness": false
               }
             },
             "2": {
@@ -70,17 +70,13 @@
               }
             }
           },
-          "isTableChecked": true,
+          "isTableChecked": false,
           "checkedRows": [
-            0,
-            1,
             2,
             3
           ],
           "currentExploredRow": null,
-          "checkedColumns": [
-            0
-          ],
+          "checkedColumns": [],
           "displayFormulas": true
         }
       },
