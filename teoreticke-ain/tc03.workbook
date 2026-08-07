@@ -34,6 +34,12 @@
               "value": "((¬loves(P,L)→¬loves(L,P))∧(loves(P,L)∨loves(L,P)))",
               "truthValue": "0/1",
               "game": []
+            },
+            {
+              "name": "",
+              "value": "",
+              "truthValue": "0/1",
+              "game": []
             }
           ]
         },
