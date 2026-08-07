@@ -24,8 +24,8 @@
       "type": "propositionalExplorer",
       "data": {
         "language": {
-          "constants": "P, L",
-          "predicates": "loves/2"
+          "constants": "",
+          "predicates": ""
         },
         "formulas": {
           "formulas": [
@@ -48,7 +48,8 @@
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
-          "checkedColumns": []
+          "checkedColumns": [],
+          "displayFormulas": false
         }
       },
       "comments": []
