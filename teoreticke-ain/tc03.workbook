@@ -38,7 +38,10 @@
           ]
         },
         "valuation": {
-          "valuation": {}
+          "valuation": {
+            "loves(P,L)": null,
+            "loves(L,P)": null
+          }
         },
         "tabs": {
           "activeTab": "allValuations"
@@ -48,7 +51,8 @@
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
-          "checkedColumns": []
+          "checkedColumns": [],
+          "displayFormulas": true
         }
       },
       "comments": []
@@ -72,12 +76,18 @@
       "comments": []
     },
     {
+      "id": 4,
+      "type": "text",
+      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $A_4$–$A_6$ k teórii $T$.\n",
+      "comments": []
+    },
+    {
       "id": 57,
       "type": "propositionalExplorer",
       "data": {
         "language": {
           "constants": "A, B",
-          "predicates": "dances_with/2, cool/1, sings/1"
+          "predicates": "dances_with/2, sings/1, cool/1"
         },
         "formulas": {
           "formulas": [
@@ -339,15 +349,10 @@
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
-          "checkedColumns": []
+          "checkedColumns": [],
+          "displayFormulas": false
         }
       },
-      "comments": []
-    },
-    {
-      "id": 4,
-      "type": "text",
-      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $A_4$–$A_6$ k teórii $T$.\n",
       "comments": []
     },
     {
