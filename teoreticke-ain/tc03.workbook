@@ -74,7 +74,7 @@
           "checkedRows": [],
           "currentExploredRow": null,
           "checkedColumns": [],
-          "displayFormulas": false
+          "displayFormulas": true
         }
       },
       "comments": []
