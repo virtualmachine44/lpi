@@ -376,7 +376,7 @@
     {
       "id": 39,
       "type": "text",
-      "data": "::h3[:icon[write] **d)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails \\varphi_5$\n* [ ] $\\varphi_5 \\npentails T$\n* [ ] $T \\npentails \\varphi_5$\n* [ ] $A_5$ je nezávislá od $T$\n* [ ] $T \\npentails A_5$ a $A_5$ **nie je** nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
+      "data": "::h3[:icon[write] **d)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails \\varphi_5$\n* [ ] $\\varphi_5 \\npentails T$\n* [ ] $T \\npentails \\varphi_5$\n* [ ] $\\varphi_5$ je nezávislá od $T$\n* [ ] $T \\npentails \\varphi_5$ a $\\varphi_5$ **nie je** nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
       "comments": []
     },
     {
