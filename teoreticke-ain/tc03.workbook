@@ -60,7 +60,7 @@
     {
       "id": 28,
       "type": "text",
-      "data": ":icon[write] **Riešenie:**\n\nFormula $A_1$:\n\n:::enum{.i}\n1. **je/nie je tautológiou**, pretože …\n\n2. …\n\n3. …\n\n4. …\n:::",
+      "data": ":icon[write] **Riešenie:**\n\nFormula $\\varphi_1$:\n\n:::enum{.i}\n1. **je/nie je tautológiou**, pretože …\n\n2. …\n\n3. …\n\n4. …\n:::",
       "comments": []
     },
     {
@@ -72,13 +72,13 @@
     {
       "id": 2,
       "type": "text",
-      "data": "## Cvičenie 3.:cnt[a]\n:small[:icon[source]\nPrednášky:\n:xref[3.11]{.lec label=\"def.\"},\n:xref[3.13]{.lec label=\"def.\"},\n:xref[3.16]{.lec label=\"def.\"},\n:xref[3.19]{.lec label=\"tvrdenie\"},\n[tabuľka na str. 74](https://fmfi-uk-1-ain-412.github.io/lpi/prednasky/poznamky-z-prednasok.pdf#nameddest=page.74).    \nZbierka:\n:xref[3.1.1]{.exbook label=\"úloha\"},\n:xref[3.1.2]{.exbook label=\"príklad\"}.]\n\nMajme výrokovologickú teóriu $T = \\{ A_1, A_2, A_3 \\}$, kde\n\n$$\n  \\begin{aligned}\n    %A_1 =& \\bigl(\\FTAB \\limpl (\\FTAB \\lor \\FSA)\\bigr) , \\\\\n    \\varphi_1 =& \\bigl(\\FTAB \\limpl (\\FFA \\lor \\FSA)\\bigr) , \\\\\n    \\varphi_2 =& (\\neg \\FTAB \\lor \\neg \\FSA) , \\\\\n    \\varphi_3 =& (\\neg \\FSA \\limpl \\FFA)\n  \\end{aligned}\n$$\n\na formuly\n\n$\\varphi_4 = (\\FTAB \\limpl \\FFA),\\\\$\n$\\varphi_5 = \\neg \\FSA,\\\\$\n$\\varphi_6 = (\\lnot \\FSA \\land \\lnot \\FFA).$",
+      "data": "## Cvičenie 3.:cnt[a]\n:small[:icon[source]\nPrednášky:\n:xref[3.11]{.lec label=\"def.\"},\n:xref[3.13]{.lec label=\"def.\"},\n:xref[3.16]{.lec label=\"def.\"},\n:xref[3.19]{.lec label=\"tvrdenie\"},\n[tabuľka na str. 74](https://fmfi-uk-1-ain-412.github.io/lpi/prednasky/poznamky-z-prednasok.pdf#nameddest=page.74).    \nZbierka:\n:xref[3.1.1]{.exbook label=\"úloha\"},\n:xref[3.1.2]{.exbook label=\"príklad\"}.]\n\nMajme výrokovologickú teóriu $T = \\{ \\varphi_1, \\varphi_2, \\varphi_3 \\}$, kde\n\n$$\n  \\begin{aligned}\n    %A_1 =& \\bigl(\\FTAB \\limpl (\\FTAB \\lor \\FSA)\\bigr) , \\\\\n    \\varphi_1 =& \\bigl(\\FTAB \\limpl (\\FFA \\lor \\FSA)\\bigr) , \\\\\n    \\varphi_2 =& (\\neg \\FTAB \\lor \\neg \\FSA) , \\\\\n    \\varphi_3 =& (\\neg \\FSA \\limpl \\FFA)\n  \\end{aligned}\n$$\n\na formuly\n\n$\\varphi_4 = (\\FTAB \\limpl \\FFA),\\\\$\n$\\varphi_5 = \\neg \\FSA,\\\\$\n$\\varphi_6 = (\\lnot \\FSA \\land \\lnot \\FFA).$",
       "comments": []
     },
     {
       "id": 4,
       "type": "text",
-      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $A_4$–$A_6$ k teórii $T$.\n",
+      "data": "::h3[:icon[write] **a)**]{.h6.float-start.my-0.me-2.lh-base}\nDoplňte nasledujúcu pravdivostnú tabuľku, ktorá vám umožní určiť vzťah formúl $\\varphi_4$–$\\varphi_6$ k teórii $T$.\n",
       "comments": []
     },
     {
