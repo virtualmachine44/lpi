@@ -382,7 +382,7 @@
     {
       "id": 38,
       "type": "text",
-      "data": "::h3[:icon[write] **e)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails A_6$\n* [ ] $A_6$ je nezávislá od $T$\n* [ ] $T \\npentails A_6$ a $A_6$ **nie je** nezávislá od $T$\n* [ ] $T \\pentails \\neg A_6$\n\n**Zdôvodnenie:** \n...",
+      "data": "::h3[:icon[write] **e)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails \\varphi_6$\n* [ ] $\\varphi_6$ je nezávislá od $T$\n* [ ] $T \\npentails \\varphi_6$ a $A_6$ **nie je** nezávislá od $T$\n* [ ] $T \\pentails \\neg A_6$\n\n**Zdôvodnenie:** \n...",
       "comments": []
     },
     {
