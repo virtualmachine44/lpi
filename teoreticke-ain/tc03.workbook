@@ -370,19 +370,19 @@
     {
       "id": 40,
       "type": "text",
-      "data": "::h3[:icon[write] **c)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n\n* [ ] $T \\pentails A_4$\n* [ ] $A_4 \\pentails T$\n* [ ] $A_4$ je nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
+      "data": "::h3[:icon[write] **c)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n\n* [ ] $T \\pentails \\varphi_4$\n* [ ] $\\varphi_4 \\pentails T$\n* [ ] $\\varphi_4$ je nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
       "comments": []
     },
     {
       "id": 39,
       "type": "text",
-      "data": "::h3[:icon[write] **d)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails A_5$\n* [ ] $A_5 \\npentails T$\n* [ ] $T \\npentails A_5$\n* [ ] $A_5$ je nezávislá od $T$\n* [ ] $T \\npentails A_5$ a $A_5$ **nie je** nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
+      "data": "::h3[:icon[write] **d)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails \\varphi_5$\n* [ ] $\\varphi_5 \\npentails T$\n* [ ] $T \\npentails \\varphi_5$\n* [ ] $\\varphi_5$ je nezávislá od $T$\n* [ ] $T \\npentails \\varphi_5$ a $\\varphi_5$ **nie je** nezávislá od $T$\n\n**Zdôvodnenie:**\n...",
       "comments": []
     },
     {
       "id": 38,
       "type": "text",
-      "data": "::h3[:icon[write] **e)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails A_6$\n* [ ] $A_6$ je nezávislá od $T$\n* [ ] $T \\npentails A_6$ a $A_6$ **nie je** nezávislá od $T$\n* [ ] $T \\pentails \\neg A_6$\n\n**Zdôvodnenie:** \n...",
+      "data": "::h3[:icon[write] **e)**]{.h6.float-start.my-0.me-2.lh-base}\nOznačte `[x]` všetky správne možnosti a kladné odpovede zdôvodnite:\n* [ ] $T \\pentails \\varphi_6$\n* [ ] $\\varphi_6$ je nezávislá od $T$\n* [ ] $T \\npentails \\varphi_6$ a $\\varphi_6$ **nie je** nezávislá od $T$\n* [ ] $T \\pentails \\neg \\varphi_6$\n\n**Zdôvodnenie:** \n...",
       "comments": []
     },
     {
