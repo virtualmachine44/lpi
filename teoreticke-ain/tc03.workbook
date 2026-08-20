@@ -50,7 +50,7 @@
           "inputTable": {
             "0": {
               "0": {
-                "value": "none",
+                "value": "true",
                 "displayCorrectness": false
               }
             },
