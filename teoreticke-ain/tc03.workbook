@@ -33,7 +33,16 @@
               "name": "",
               "value": "((¬loves(P,L)→¬loves(L,P))∧(loves(P,L)∨loves(L,P)))",
               "truthValue": "0",
-              "game": []
+              "game": [
+                {
+                  "turn": "player",
+                  "selectedSubformulaIndex": 0
+                },
+                {
+                  "turn": "world",
+                  "selectedSubformulaIndex": 1
+                }
+              ]
             }
           ]
         },
