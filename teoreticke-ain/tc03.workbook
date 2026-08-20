@@ -70,7 +70,7 @@
             {
               "name": "",
               "value": "(¬matka(Eva, Alex) → ((otec(Alex, Tim) ∨ ¬brat(Tim, Eva))  ∧ ¬manzel(Alex, Eva)))",
-              "truthValue": "0/1",
+              "truthValue": "0",
               "game": []
             }
           ]
