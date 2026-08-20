@@ -445,6 +445,12 @@
       "comments": []
     },
     {
+      "id": 45,
+      "type": "propositionalExplorer",
+      "data": null,
+      "comments": []
+    },
+    {
       "id": 42,
       "type": "newStructureExplorer",
       "data": {
