@@ -457,7 +457,7 @@
             {
               "name": "",
               "value": "(title(The_Catcher_in_the_Rye)∧has_author(The_Catcher_in_the_Rye,Salinger))",
-              "truthValue": "0/1",
+              "truthValue": "1",
               "game": []
             }
           ]
