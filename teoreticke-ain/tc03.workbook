@@ -69,7 +69,7 @@
           "formulas": [
             {
               "name": "",
-              "value": "(¬matka(Eva, Alex) → ((otec(Alex, T im) ∨ ¬brat(Tim, Eva))  ∧ ¬manzel(Alex, Eva))",
+              "value": "(¬matka(Eva, Alex) → ((otec(Alex, Tim) ∨ ¬brat(Tim, Eva))  ∧ ¬manzel(Alex, Eva)))",
               "truthValue": "0/1",
               "game": []
             }
@@ -82,7 +82,104 @@
           "activeTab": "allValuations"
         },
         "allValuations": {
-          "inputTable": {},
+          "inputTable": {
+            "0": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "1": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "2": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "3": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "4": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "5": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "6": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "7": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "8": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "9": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "10": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "11": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "12": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "13": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "14": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "15": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            }
+          },
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
