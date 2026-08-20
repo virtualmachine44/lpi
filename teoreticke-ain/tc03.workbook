@@ -69,7 +69,7 @@
           "formulas": [
             {
               "name": "",
-              "value": "",
+              "value": "(¬matka(Eva, Alex) → ((otec(Alex, T im) ∨ ¬brat(T im, Eva)) \u0011 ∧ ¬manzel(Alex, Eva))",
               "truthValue": "0/1",
               "game": []
             }
