@@ -559,8 +559,15 @@
             1,
             3
           ],
-          "currentExploredRow": 3,
-          "checkedColumns": [],
+          "currentExploredRow": null,
+          "checkedColumns": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
           "displayFormulas": false
         }
       },
