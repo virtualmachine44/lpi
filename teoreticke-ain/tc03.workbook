@@ -379,7 +379,7 @@
               },
               "5": {
                 "value": "false",
-                "displayCorrectness": false
+                "displayCorrectness": true
               }
             },
             "2": {
@@ -405,7 +405,7 @@
               },
               "5": {
                 "value": "false",
-                "displayCorrectness": false
+                "displayCorrectness": true
               }
             },
             "3": {
@@ -431,7 +431,7 @@
               },
               "5": {
                 "value": "false",
-                "displayCorrectness": false
+                "displayCorrectness": true
               }
             },
             "4": {
@@ -482,7 +482,7 @@
                 "displayCorrectness": false
               },
               "5": {
-                "value": "true",
+                "value": "false",
                 "displayCorrectness": true
               }
             },
@@ -508,7 +508,7 @@
                 "displayCorrectness": false
               },
               "5": {
-                "value": "true",
+                "value": "false",
                 "displayCorrectness": true
               }
             },
@@ -534,7 +534,7 @@
                 "displayCorrectness": false
               },
               "5": {
-                "value": "true",
+                "value": "false",
                 "displayCorrectness": true
               }
             }
@@ -543,7 +543,8 @@
           "checkedRows": [],
           "currentExploredRow": null,
           "checkedColumns": [
-            3
+            3,
+            5
           ],
           "displayFormulas": false
         }
