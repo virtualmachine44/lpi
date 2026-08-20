@@ -456,20 +456,48 @@
           "formulas": [
             {
               "name": "",
-              "value": "",
+              "value": "(title(The_Catcher_in_the_Rye)∧has_author(The_Catcher_in_the_Rye,Salinger))",
               "truthValue": "0/1",
               "game": []
             }
           ]
         },
         "valuation": {
-          "valuation": {}
+          "valuation": {
+            "title(The_Catcher_in_the_Rye)": null,
+            "has_author(The_Catcher_in_the_Rye,Salinger)": null
+          }
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
-          "inputTable": {},
+          "inputTable": {
+            "0": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "1": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "2": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "3": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            }
+          },
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
