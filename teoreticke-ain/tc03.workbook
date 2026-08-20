@@ -83,10 +83,6 @@
                 {
                   "turn": "player",
                   "selectedSubformulaIndex": 1
-                },
-                {
-                  "turn": "world",
-                  "selectedSubformulaIndex": 0
                 }
               ]
             }
@@ -96,7 +92,7 @@
           "valuation": {
             "matka(Eva,Alex)": false,
             "otec(Alex,Tim)": true,
-            "brat(Tim,Eva)": true,
+            "brat(Tim,Eva)": false,
             "manzel(Alex,Eva)": false
           }
         },
