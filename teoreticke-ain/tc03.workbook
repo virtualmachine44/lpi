@@ -77,8 +77,8 @@
         },
         "valuation": {
           "valuation": {
-            "matka(Eva,Alex)": null,
-            "otec(Alex,Tim)": null,
+            "matka(Eva,Alex)": false,
+            "otec(Alex,Tim)": true,
             "brat(Tim,Eva)": null,
             "manzel(Alex,Eva)": null
           }
