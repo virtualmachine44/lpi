@@ -76,10 +76,15 @@
           ]
         },
         "valuation": {
-          "valuation": {}
+          "valuation": {
+            "matka(Eva,Alex)": null,
+            "otec(Alex,Tim)": null,
+            "brat(Tim,Eva)": null,
+            "manzel(Alex,Eva)": null
+          }
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
           "inputTable": {
