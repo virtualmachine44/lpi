@@ -311,7 +311,7 @@
             {
               "name": "",
               "value": "¬sings(A)",
-              "truthValue": "0",
+              "truthValue": "0/1",
               "game": [
                 {
                   "turn": "world",
@@ -330,12 +330,12 @@
         "valuation": {
           "valuation": {
             "dances_with(A,B)": false,
-            "cool(A)": false,
+            "cool(A)": true,
             "sings(A)": true
           }
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
           "inputTable": {
@@ -559,7 +559,7 @@
             7,
             1
           ],
-          "currentExploredRow": 1,
+          "currentExploredRow": 3,
           "checkedColumns": [],
           "displayFormulas": false
         }
