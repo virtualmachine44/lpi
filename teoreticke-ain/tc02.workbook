@@ -449,7 +449,7 @@
       "type": "propositionalExplorer",
       "data": {
         "language": {
-          "constants": "The_Catcher_in_the_Rye, ",
+          "constants": "The_Catcher_in_the_Rye, Salinger",
           "predicates": "title/1, has_author/2"
         },
         "formulas": {
