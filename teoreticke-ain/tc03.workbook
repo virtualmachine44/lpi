@@ -75,6 +75,10 @@
                 {
                   "turn": "player",
                   "selectedSubformulaIndex": 1
+                },
+                {
+                  "turn": "world",
+                  "selectedSubformulaIndex": 0
                 }
               ]
             }
