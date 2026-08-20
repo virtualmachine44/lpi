@@ -71,7 +71,16 @@
               "name": "",
               "value": "(¬matka(Eva, Alex) → ((otec(Alex, Tim) ∨ ¬brat(Tim, Eva))  ∧ ¬manzel(Alex, Eva)))",
               "truthValue": "1",
-              "game": []
+              "game": [
+                {
+                  "turn": "player",
+                  "selectedSubformulaIndex": 1
+                },
+                {
+                  "turn": "world",
+                  "selectedSubformulaIndex": 0
+                }
+              ]
             }
           ]
         },
