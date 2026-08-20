@@ -62,7 +62,7 @@
       "type": "propositionalExplorer",
       "data": {
         "language": {
-          "constants": "",
+          "constants": "Eva, Alex, Tim",
           "predicates": ""
         },
         "formulas": {
