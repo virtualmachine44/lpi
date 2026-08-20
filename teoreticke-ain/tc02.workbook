@@ -450,7 +450,7 @@
       "data": {
         "language": {
           "constants": "",
-          "predicates": ""
+          "predicates": "title/1, "
         },
         "formulas": {
           "formulas": [
