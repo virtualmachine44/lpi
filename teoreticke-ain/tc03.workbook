@@ -311,8 +311,13 @@
             {
               "name": "",
               "value": "¬sings(A)",
-              "truthValue": "1",
-              "game": []
+              "truthValue": "0",
+              "game": [
+                {
+                  "turn": "world",
+                  "selectedSubformulaIndex": 0
+                }
+              ]
             },
             {
               "name": "",
