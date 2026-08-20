@@ -574,20 +574,15 @@
             {
               "name": "",
               "value": "(p(a) -> p(b))",
-              "truthValue": "0",
-              "game": [
-                {
-                  "turn": "world",
-                  "selectedSubformulaIndex": 1
-                }
-              ]
+              "truthValue": "0/1",
+              "game": []
             }
           ]
         },
         "valuation": {
           "valuation": {
-            "p(a)": true,
-            "p(b)": false
+            "p(a)": false,
+            "p(b)": true
           }
         },
         "tabs": {
@@ -622,7 +617,7 @@
           },
           "isTableChecked": false,
           "checkedRows": [],
-          "currentExploredRow": null,
+          "currentExploredRow": 1,
           "checkedColumns": [],
           "displayFormulas": false
         }
