@@ -79,8 +79,8 @@
           "valuation": {
             "matka(Eva,Alex)": false,
             "otec(Alex,Tim)": true,
-            "brat(Tim,Eva)": null,
-            "manzel(Alex,Eva)": null
+            "brat(Tim,Eva)": false,
+            "manzel(Alex,Eva)": false
           }
         },
         "tabs": {
