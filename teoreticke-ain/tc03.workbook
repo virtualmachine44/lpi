@@ -32,19 +32,19 @@
             {
               "name": "",
               "value": "((¬loves(P,L)→¬loves(L,P))∧(loves(P,L)∨loves(L,P)))",
-              "truthValue": "0/1",
+              "truthValue": "1",
               "game": []
             }
           ]
         },
         "valuation": {
           "valuation": {
-            "loves(P,L)": null,
-            "loves(L,P)": null
+            "loves(P,L)": false,
+            "loves(L,P)": false
           }
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
           "inputTable": {
@@ -80,7 +80,7 @@
             2,
             3
           ],
-          "currentExploredRow": null,
+          "currentExploredRow": 0,
           "checkedColumns": [
             0
           ],
