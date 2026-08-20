@@ -573,7 +573,7 @@
           "formulas": [
             {
               "name": "",
-              "value": "(p())",
+              "value": "(p(a) -> p(b))",
               "truthValue": "0/1",
               "game": []
             }
@@ -586,12 +586,37 @@
           "activeTab": "allValuations"
         },
         "allValuations": {
-          "inputTable": {},
+          "inputTable": {
+            "0": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "1": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "2": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            },
+            "3": {
+              "0": {
+                "value": "none",
+                "displayCorrectness": false
+              }
+            }
+          },
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
           "checkedColumns": [],
-          "displayFormulas": false
+          "displayFormulas": true
         }
       },
       "comments": []
