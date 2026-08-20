@@ -53,7 +53,7 @@
           }
         },
         "tabs": {
-          "activeTab": "oneValuation"
+          "activeTab": "allValuations"
         },
         "allValuations": {
           "inputTable": {
@@ -84,15 +84,13 @@
           },
           "isTableChecked": true,
           "checkedRows": [
-            0,
             1,
             2,
-            3
-          ],
-          "currentExploredRow": 0,
-          "checkedColumns": [
+            3,
             0
           ],
+          "currentExploredRow": 0,
+          "checkedColumns": [],
           "displayFormulas": true
         }
       },
