@@ -53,13 +53,13 @@
           }
         },
         "tabs": {
-          "activeTab": "oneValuation"
+          "activeTab": "allValuations"
         },
         "allValuations": {
           "inputTable": {
             "0": {
               "0": {
-                "value": "true",
+                "value": "false",
                 "displayCorrectness": true
               }
             },
