@@ -575,7 +575,12 @@
               "name": "",
               "value": "(p(a) -> p(b))",
               "truthValue": "0",
-              "game": []
+              "game": [
+                {
+                  "turn": "world",
+                  "selectedSubformulaIndex": 1
+                }
+              ]
             }
           ]
         },
