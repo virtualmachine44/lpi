@@ -332,7 +332,7 @@
           "inputTable": {
             "0": {
               "0": {
-                "value": "true",
+                "value": "none",
                 "displayCorrectness": false
               },
               "1": {
