@@ -465,7 +465,7 @@
         "valuation": {
           "valuation": {
             "title(The_Catcher_in_the_Rye)": false,
-            "has_author(The_Catcher_in_the_Rye,Salinger)": null
+            "has_author(The_Catcher_in_the_Rye,Salinger)": false
           }
         },
         "tabs": {
