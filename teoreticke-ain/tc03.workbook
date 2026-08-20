@@ -574,16 +574,19 @@
             {
               "name": "",
               "value": "(p(a) -> p(b))",
-              "truthValue": "0/1",
+              "truthValue": "0",
               "game": []
             }
           ]
         },
         "valuation": {
-          "valuation": {}
+          "valuation": {
+            "p(a)": true,
+            "p(b)": false
+          }
         },
         "tabs": {
-          "activeTab": "allValuations"
+          "activeTab": "oneValuation"
         },
         "allValuations": {
           "inputTable": {
@@ -616,7 +619,7 @@
           "checkedRows": [],
           "currentExploredRow": null,
           "checkedColumns": [],
-          "displayFormulas": true
+          "displayFormulas": false
         }
       },
       "comments": []
