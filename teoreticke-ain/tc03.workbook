@@ -345,7 +345,7 @@
               },
               "3": {
                 "value": "true",
-                "displayCorrectness": false
+                "displayCorrectness": true
               },
               "4": {
                 "value": "none",
@@ -371,7 +371,7 @@
               },
               "3": {
                 "value": "true",
-                "displayCorrectness": false
+                "displayCorrectness": true
               },
               "4": {
                 "value": "none",
@@ -397,7 +397,7 @@
               },
               "3": {
                 "value": "true",
-                "displayCorrectness": false
+                "displayCorrectness": true
               },
               "4": {
                 "value": "none",
@@ -422,8 +422,8 @@
                 "displayCorrectness": true
               },
               "3": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               },
               "4": {
                 "value": "none",
@@ -448,8 +448,8 @@
                 "displayCorrectness": false
               },
               "3": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               },
               "4": {
                 "value": "none",
@@ -474,8 +474,8 @@
                 "displayCorrectness": true
               },
               "3": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               },
               "4": {
                 "value": "none",
@@ -500,8 +500,8 @@
                 "displayCorrectness": true
               },
               "3": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               },
               "4": {
                 "value": "none",
@@ -526,8 +526,8 @@
                 "displayCorrectness": true
               },
               "3": {
-                "value": "none",
-                "displayCorrectness": false
+                "value": "true",
+                "displayCorrectness": true
               },
               "4": {
                 "value": "none",
@@ -542,7 +542,9 @@
           "isTableChecked": false,
           "checkedRows": [],
           "currentExploredRow": null,
-          "checkedColumns": [],
+          "checkedColumns": [
+            3
+          ],
           "displayFormulas": false
         }
       },
