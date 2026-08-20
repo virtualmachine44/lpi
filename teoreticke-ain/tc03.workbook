@@ -63,7 +63,7 @@
       "data": {
         "language": {
           "constants": "Eva, Alex, Tim",
-          "predicates": ""
+          "predicates": "otec/2 , matka/2 , brat/2 , manzel2"
         },
         "formulas": {
           "formulas": [
