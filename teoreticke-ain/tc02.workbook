@@ -683,7 +683,12 @@
         {
           "id": 48,
           "type": "context/addFormulas",
-          "data": [],
+          "data": [
+            {
+              "name": "X",
+              "formula": "(otec(B,H)→(muz(B)∧syn(H)))"
+            }
+          ],
           "comments": []
         }
       ],
