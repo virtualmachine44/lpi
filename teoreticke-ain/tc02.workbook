@@ -707,7 +707,36 @@
         {
           "id": 49,
           "type": "propositionalExplorer",
-          "data": null,
+          "data": {
+            "language": {
+              "constants": "Bruno, Hugo",
+              "predicates": "otec/2, muž/1, syn/1"
+            },
+            "formulas": {
+              "formulas": [
+                {
+                  "name": "",
+                  "value": "",
+                  "truthValue": "0/1",
+                  "game": []
+                }
+              ]
+            },
+            "valuation": {
+              "valuation": {}
+            },
+            "tabs": {
+              "activeTab": "allValuations"
+            },
+            "allValuations": {
+              "inputTable": {},
+              "isTableChecked": false,
+              "checkedRows": [],
+              "currentExploredRow": null,
+              "checkedColumns": [],
+              "displayFormulas": false
+            }
+          },
           "comments": []
         }
       ],
