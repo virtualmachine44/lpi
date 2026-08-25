@@ -653,8 +653,8 @@
           "id": 47,
           "type": "context/language",
           "data": {
-            "constants": "",
-            "predicates": "",
+            "constants": "Bruno, Hugo",
+            "predicates": "otec/2, muž/1, syn/1",
             "functions": ""
           },
           "comments": []
