@@ -710,7 +710,7 @@
           "data": [
             {
               "name": "A",
-              "formula": "mu6(Bruno)"
+              "formula": "muž(Bruno)"
             }
           ],
           "comments": []
