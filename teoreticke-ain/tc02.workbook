@@ -715,12 +715,6 @@
             "formulas": {
               "formulas": [
                 {
-                  "name": "",
-                  "value": "",
-                  "truthValue": "0/1",
-                  "game": []
-                },
-                {
                   "name": "X",
                   "value": "(otec(Bruno, Hugo) → (muž(Bruno) ∧ syn(Hugo)))",
                   "truthValue": "0/1",
