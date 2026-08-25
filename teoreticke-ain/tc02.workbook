@@ -646,6 +646,12 @@
       "comments": []
     },
     {
+      "id": 46,
+      "type": "context",
+      "data": [],
+      "comments": []
+    },
+    {
       "id": 43,
       "type": "newStructureExplorer",
       "data": {
