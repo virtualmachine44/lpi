@@ -657,6 +657,33 @@
             "predicates": "otec/2, muž/1, syn/1",
             "functions": ""
           },
+          "contextExtension": {
+            "constants": [
+              "Bruno",
+              "Hugo"
+            ],
+            "predicates": [
+              {
+                "name": "otec",
+                "arity": 2
+              },
+              {
+                "name": "muž",
+                "arity": 1
+              },
+              {
+                "name": "syn",
+                "arity": 1
+              }
+            ],
+            "functions": []
+          },
+          "comments": []
+        },
+        {
+          "id": 48,
+          "type": "context/addFormulas",
+          "data": [],
           "comments": []
         }
       ],
