@@ -705,6 +705,12 @@
           "comments": []
         },
         {
+          "id": 50,
+          "type": "context/addAxioms",
+          "data": [],
+          "comments": []
+        },
+        {
           "id": 49,
           "type": "propositionalExplorer",
           "data": {
