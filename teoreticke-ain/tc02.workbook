@@ -648,7 +648,18 @@
     {
       "id": 46,
       "type": "context",
-      "data": [],
+      "data": [
+        {
+          "id": 47,
+          "type": "context/language",
+          "data": {
+            "constants": "",
+            "predicates": "",
+            "functions": ""
+          },
+          "comments": []
+        }
+      ],
       "comments": []
     },
     {
