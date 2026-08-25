@@ -693,10 +693,21 @@
             "constants": [],
             "predicates": [],
             "functions": [],
-            "formulas": [],
+            "formulas": [
+              {
+                "name": "X",
+                "formula": "(otec(Bruno, Hugo) → (muž(Bruno) ∧ syn(Hugo)))"
+              }
+            ],
             "axioms": [],
             "theorems": []
           },
+          "comments": []
+        },
+        {
+          "id": 49,
+          "type": "propositionalExplorer",
+          "data": null,
           "comments": []
         }
       ],
