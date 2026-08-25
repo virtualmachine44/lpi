@@ -686,7 +686,7 @@
           "data": [
             {
               "name": "X",
-              "formula": "(otec(Bruno,Hugo)→(muz(Bruno)∧syn(Hugo)))"
+              "formula": ""
             }
           ],
           "contextExtension": {
